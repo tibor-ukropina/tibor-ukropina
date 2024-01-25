@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Tibor Ukropina. I am passionate about teaching, web development, and optimization. In 2023 I started my coding academy "Tibor Ukropina's Coding Academy" where I teach Angular and problem-solving skills. 
+
 <!--
 **tibor-ukropina/tibor-ukropina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
