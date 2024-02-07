@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tibor Ukropina, and I'm a software engineer at SerbLink. I am passionate about teaching, web development, and optimization. In 2023 I started my coding academy "Tibor's Code Academy" where I teach Angular and problem-solving skills. To learn more about me check out my website https://tiborukropina.com/
+My name is Tibor Ukropina, and I'm a software engineer at SerbLink. I am passionate about teaching, web development, and optimization.
 
 <!--
 **tibor-ukropina/tibor-ukropina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
