@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tibor Ukropina, and I'm a software engineer at SerbLink. I am passionate about teaching, web development, and optimization.
+My name is Tibor Ukropina, and I'm a software engineer at SerbLink. I am passionate about web development and optimization.
 
 <!--
 **tibor-ukropina/tibor-ukropina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
