@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tibor Ukropina, and I'm a software engineer at SerbLink. I am passionate about web development and optimization.
+My name is Tibor Ukropina, and I'm the lead frontend engineer at SerbLink. I've attended both the University of Guelph and Sheridan College for Computer Science and Network Engineering. I am passionate about web development and optimization.
 
 <!--
 **tibor-ukropina/tibor-ukropina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
