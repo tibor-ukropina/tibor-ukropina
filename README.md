@@ -20,7 +20,7 @@ Software Quality Engineer at RBC specializing in Fraud IT, with 6+ years of expe
 
 ## Projects
 
-**[Marketplace Clone](https://github.com/tibor-ukropina/MarketplaceClone)** — [Live Demo](https://marketplace-clone-git-main-tiborukropinas-projects.vercel.app/)
+**[Marketplace Clone](https://github.com/tibor-ukropina/MarketplaceClone)** — [Live Demo](https://marketplace-clone-lovat.vercel.app/)
 Full-stack Facebook Marketplace clone built with Angular 21 and Spring Boot 3.4. Features Angular Signals for reactive state management, a three-layer REST API architecture, and is deployed across Vercel and Railway.
 
 **[Personal Website](https://tiborukropina.com)**
